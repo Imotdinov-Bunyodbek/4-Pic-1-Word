@@ -23,8 +23,11 @@ Below are some screenshots of the application:
 <table>
   <tr>
     <td><img src="images/home.png" alt="Home Screen" width="200"/></td>
-    <td><img src="images/gameplay.png" alt="Gameplay Screen" width="200"/></td>
-    <td><img src="images/settings.png" alt="Settings Screen" width="200"/></td>
+    <td><img src="images/game_1.png" alt="Gameplay Screen" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/game_2.png" alt="Gameplay Screen" width="200"/></td>
+    <td><img src="images/info.png" alt="Info Screen" width="200"/></td>
   </tr>
 </table>
 
